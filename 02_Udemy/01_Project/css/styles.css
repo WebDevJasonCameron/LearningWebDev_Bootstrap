@@ -3,10 +3,18 @@ body {
     color: #ffffff;
 }
 
+/*
+    HEADER SECTION
+*/
+
 .navbar {
     border-bottom: 3px solid #008ed6;
     opacity: 0.8;
 }
+
+/*
+    HOME SECTION
+*/
 
 #home-section {
     background: url("../img/home.jpg"), no-repeat, fixed;
@@ -26,3 +34,36 @@ body {
 #home-section .home-inner {
     padding-top: 150px;
 }
+
+#home-section .card-form {
+    opacity: 0.8;
+}
+
+#home-section .fas, #create-section .fas  {             /* CREATE Section Checkbox included */
+    color: #008ed6;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/*
+    EXPLORE SECTION
+*/
+
+#explore-section .fas, #share-section .fas {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/*
+    CREATE SECTION
+*/
+/* See Home Section */
+
+
+
+/*
+    SHARE SECTION
+*/
