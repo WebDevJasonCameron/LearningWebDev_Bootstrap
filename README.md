@@ -1,5 +1,8 @@
 # LearningWebDev_Bootstrap
 
+## 2022 04 02 | Glozzom
+Started working on this theme. 
+
 ## 2022 03 04 | Udemy
 For the last week, I have bbe going through an udemy course taught by Brad Traversy.  The part of this course covered the same topics as the LI Learning Bootstrap lesson.  Although, I think this course did a much better job in explaining each part of Bootstrap.  
 
